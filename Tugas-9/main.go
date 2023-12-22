@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"tugas9/tugas9"
+	"package-import/tugas9"
 )
 
 func main() {
